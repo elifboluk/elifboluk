@@ -43,16 +43,8 @@
 
 ### :fire: _My Stats_ :
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifboluk&show_icons=false&theme=vision-friendly-dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elifboluk&theme=vision-friendly-dark&show_icons=false&hide_rank)](https://git.io/streak-stats)
-
-
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifboluk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifboluk&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
