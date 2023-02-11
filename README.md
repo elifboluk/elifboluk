@@ -44,8 +44,9 @@
 ### :fire: _My Stats_ :
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifboluk&show_icons=true&theme=vision-friendly-dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elifboluk&theme=vision-friendly-dark&show_icons=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elifboluk&show_icons=false&theme=vision-friendly-dark&hide_rank)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elifboluk&theme=vision-friendly-dark&show_icons=false&hide_rank)](https://git.io/streak-stats)
+
 
 <div align="center">
 
