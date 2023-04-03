@@ -44,7 +44,7 @@
 ### :fire: _My Stats_ :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elifboluk&theme=vision-friendly-dark&show_icons=false&hide_rank)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifboluk&layout=compact&theme=vision-friendly-dark&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
@@ -52,6 +52,7 @@
 **elifboluk/elifboluk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elifboluk&layout=compact&theme=vision-friendly-dark&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 -->
