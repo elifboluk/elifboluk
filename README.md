@@ -9,7 +9,7 @@
 - 📚 **_I’m graduated from İstanbul Gelişim University, Electrical & Electronics Engineering department._**
 - 💻 **_I’m currently working on some Asp.Net Core/MVC and Web API projects._**
 - 📈 **_I have experience in C#, HTML, CSS, JavaScript and SQL._**
-- 📫 **_You can reach me at elifbolukk@gmail.com_**  
+- 📫 **_You can reach me at muh.elifboluk@gmail.com_**  
 
 
 ---
